@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "_data_": null,
+    "_date_": "5/2/2024",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s933263f17b343158c84b6984b3ef810",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        5,
+        2,
+        2024,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "day": 5,
+    "daytextalignmentincell": 5,
+    "format": "MM/dd/yyyy",
+    "formatteddate": "02/05/2024",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calDate",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g5003071c1ce4510abc929a0401fdbf8",
+    "minutes": 0,
+    "month": 2,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2024",
+    "parent": "flxDate",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2024",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2024,
+    "zindex": 1
+}

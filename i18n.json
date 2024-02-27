@@ -1,0 +1,31 @@
+{
+    "keys": [
+        "event"
+    ],
+    "locales": {
+        "en_GB": {
+            "i18nStrings": {
+                "event": "Event on XXX at YYY in ZZZ of CCC"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "zh_CN": {
+            "i18nStrings": {
+                "event": "会议于 XXX 在 CCC ZZZ的YYY举行"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

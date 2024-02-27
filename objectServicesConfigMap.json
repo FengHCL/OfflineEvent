@@ -1,0 +1,9 @@
+{
+    "OfflineEventObjSvc_Events": {
+        "servicename": "OfflineEventObjSvc",
+        "serviceid": "56e37ac5-10ad-4f8f-840d-763076068d48",
+        "type": "objectsvcs",
+        "objectname": "Events",
+        "objectid": "415469"
+    }
+}

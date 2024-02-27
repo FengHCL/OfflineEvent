@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "se665ff713104b418fccd60996c4e06f",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s328bbfb202447dc80ac58f9d4347379",
+    "groupcells": false,
+    "id": "listCountry",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bf2cd04a171d43cf85e3d7f15e7a5c5e",
+    "masterdata": [
+        [
+            "na",
+            "Select Country"
+        ],
+        [
+            "de",
+            "Germany"
+        ],
+        [
+            "it",
+            "Italy"
+        ],
+        [
+            "uae",
+            "United Arab Emirates"
+        ],
+        [
+            "cn",
+            "China"
+        ],
+        [
+            "fr",
+            "France"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxCountry",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
